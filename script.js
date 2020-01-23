@@ -10,4 +10,17 @@ var firebaseConfig = {
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
-firebase.analytics();
+
+const db = firebase.firestore();
+
+// TODO: Add Shot Counter
+// Increment Counter
+// Upload new amount
+// Realtime Updates
+
+// TODO: Submit Posts
+// Upload posts
+// Info
+// Content - Initials - Post Number
+
+// TODO: Show random posts on click
