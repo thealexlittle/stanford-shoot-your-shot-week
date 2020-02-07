@@ -1,32 +1,104 @@
-body {
-  margin-left: 2em;
-  margin-right: 2em;
-  padding-left: 2em;
-  padding-right: 2em;
+#root {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  background-color: #ffe9f2;
 }
 
-#content {
+#NavBar {
   display: flex;
-  flex-direction: column;
+  background-color: #fc4a66;
+  width: 100vw;
+  height: 3.5rem;
+  justify-content: flex-end;
   align-items: center;
 }
 
-#content > img,
-a {
-  margin-top: 1em;
-  margin-bottom: 1em;
+.NavText {
+  font-family: 'Sriracha', cursive;
+  font-size: 1rem;
+  padding: 0 2vw;
+  color: white;
+  transition: transform 0.5s;
+  text-decoration: none;
 }
 
-#counter {
-  position: relative;
+.NavText:hover {
+  transform: scale(1.4);
+}
+
+#NavBar > a:first-child {
+  padding-left: 2vw;
+}
+
+.OptText {
+  display: inline;
+  margin-right: auto;
+}
+
+.NavLogo {
+  transform-origin: top left;
+  display: inline;
+  transition: transform 0.5s;
+}
+
+.NavLogo:hover {
+  transform: scale(1.3);
+}
+
+.NavText:nth-child(2):hover {
+  transform: scale(1.2);
+}
+
+h2 {
+  color: #990000;
+  font-size: 2.5em;
+  font-family: 'Sriracha', cursive;
   text-align: center;
+  margin: 0;
 }
 
-#shotnum {
-  position: absolute;
-  top: 40%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  color: aliceblue;
-  font-size: 400%;
+h1 {
+  color: #ff0000;
+  font-size: 4rem;
+  font-family: 'Courgette', cursive;
+  text-align: center;
+  margin: 0;
+}
+
+@media all and (max-width: 550px) {
+  #NavBar > a {
+    color: white;
+    padding: 0 1.9vw;
+    font-size: 1.1rem;
+  }
+
+  #NavBar > a:first-child {
+    margin-right: auto;
+  }
+
+  .OptText {
+    display: none;
+    margin-right: 0;
+  }
+}
+
+@media all and (max-width: 370px) {
+  #NavBar > a {
+    color: white;
+    padding: 0 1vw;
+    font-size: 1.1rem;
+  }
+
+  #NavBar > a:first-child {
+    padding: 0 0 0 1vw;
+  }
+
+  .NavText:hover {
+    transform: scale(1.1);
+  }
+
+  .NavLogo:hover {
+    transform: scale(1.1);
+  }
 }
