@@ -8,6 +8,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
     <link href="https://fonts.googleapis.com/css?family=Courgette|Nunito|Sriracha&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css" />
+    <script src="https://cdn.jsdelivr.net/npm/animejs@3.1.0/lib/anime.min.js"></script>
+    <script src="svg-inject.min.js"></script>
+    <script src="script.js"></script>
   </head>
   <body id="root">
     <div id="NavBar">
@@ -24,7 +27,9 @@
     <div id="HeartCounter">
         <h2> Stanford National </h2>
         <h1> Shoot Your Shot Week </h1>
-
+        <div id="HeartAnimation">
+          <img src="SVGHeartImg.svg" onload="SVGInject(this)" />
+        </div>
     </div>
     <div id="Pledge">
 

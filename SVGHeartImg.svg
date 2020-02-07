@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 69.007302 59.685145"
+   height="225.58163"
+   width="260.815">
+  <title
+     id="title838">SVGHeartImg</title>
+  <defs
+     id="defs2">
+    <marker
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker1343"
+       style="overflow:visible;">
+      <path
+         id="path1341"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#330000;stroke-opacity:0.78787884;fill:#330000;fill-opacity:0.78823529"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(0,0)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1220"
+       refX="0.0"
+       refY="0.0"
+       orient="auto">
+      <g
+         id="g1218"
+         style="stroke:#330000;stroke-opacity:0.78787884;fill:#330000;fill-opacity:0.78823529">
+        <path
+           style="fill:#330000;stroke:#330000;stroke-width:1.15;stroke-linecap:square;stroke-opacity:0.78787884;fill-opacity:0.78823529"
+           d="M 0,0 L -2,0"
+           id="path1212" />
+        <path
+           style="fill:#330000;fill-rule:evenodd;stroke:#330000;stroke-opacity:0.78787884;fill-opacity:0.78823529"
+           d="M 0,0 L -13,4 L -9,0 -13,-4 L 0,0 z "
+           id="path1214" />
+        <path
+           style="fill:#330000;stroke:#330000;stroke-width:1;stroke-linecap:square;stroke-opacity:0.78787884;fill-opacity:0.78823529"
+           d="M 0,-4 L 0,40"
+           id="path1216" />
+      </g>
+    </marker>
+    <marker
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker1124"
+       style="overflow:visible">
+      <path
+         id="path1122"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#330000;stroke-width:1pt;stroke-opacity:0.78787884;fill:#330000;fill-opacity:0.78823529"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>SVGHeartImg</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(13.735176,-235.88342)"
+     id="layer1">
+    <g
+       transform="matrix(1.4966448,0,0,1.6065151,-20.04066,-169.2278)"
+       id="g836">
+      <path
+         style="fill:#330000;fill-opacity:0.82575756;stroke:none;stroke-width:1.35430823;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98674244;paint-order:normal"
+         d="m 16.927657,279.68898 c -3.188139,-3.17764 -6.538058,-6.20673 -9.5956873,-9.50721 -2.9819067,-3.90534 -2.8031876,-9.82994 0.5259073,-13.48082 3.079971,-3.69999 8.837931,-4.6477 12.954829,-2.17781 1.704543,1.12158 3.158804,2.60546 4.592656,4.04829 -0.760983,2.28849 -1.639803,4.5362 -2.464167,6.80251 1.756131,1.71988 3.512262,3.43976 5.268393,5.15965 -1.729315,2.41039 -3.458629,4.82077 -5.18794,7.23117 1.753923,1.54924 3.453642,3.15902 5.179097,4.73992 -0.90779,1.80958 -1.801552,3.62631 -2.726063,5.4274 -2.878731,-2.71627 -5.702544,-5.49092 -8.547025,-8.2431 z"
+         id="path832" />
+      <path
+         style="fill:#330000;fill-opacity:0.82575756;stroke:none;stroke-width:1.35430823;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98674244;paint-order:normal"
+         d="m 29.199471,287.98959 c 0.858184,-1.77961 1.864943,-3.48757 2.663298,-5.29534 -1.650761,-1.63197 -3.415608,-3.14452 -5.076191,-4.76658 1.714563,-2.40297 3.429126,-4.80594 5.143688,-7.2089 -1.739148,-1.72033 -3.547619,-3.37493 -5.205489,-5.17421 0.725349,-2.27364 1.561493,-4.51045 2.347097,-6.76384 2.193936,-2.11464 4.341265,-4.57814 7.473672,-5.20515 3.762153,-0.83816 7.947864,0.48759 10.336501,3.5649 3.201773,3.74788 3.249206,9.70473 0.08931,13.48961 -2.048992,2.42752 -4.53023,4.45387 -6.753712,6.72098 -3.671724,3.54711 -7.315775,7.1235 -11.018165,10.63853 z"
+         id="path826" />
+    </g>
+  </g>
+</svg>

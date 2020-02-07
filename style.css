@@ -31,6 +31,10 @@
   padding-left: 2vw;
 }
 
+#NavBar > a:last-child {
+  padding-right: 4vw;
+}
+
 .OptText {
   display: inline;
   margin-right: auto;
@@ -50,23 +54,37 @@
   transform: scale(1.2);
 }
 
+#HeartCounter {
+  width: 100%;
+  text-align: center;
+}
+
+#HeartAnimation {
+  margin-top: 2vh;
+}
+
+#HeartAnimation svg {
+  width: 70vw;
+  height: auto;
+}
+
 h2 {
   color: #990000;
   font-size: 2.5em;
   font-family: 'Sriracha', cursive;
-  text-align: center;
+  padding-top: 1.5rem;
   margin: 0;
+  line-height: 2.7rem;
 }
 
 h1 {
   color: #ff0000;
   font-size: 4rem;
   font-family: 'Courgette', cursive;
-  text-align: center;
   margin: 0;
 }
 
-@media all and (max-width: 550px) {
+@media all and (max-width: 555px) {
   #NavBar > a {
     color: white;
     padding: 0 1.9vw;
@@ -83,7 +101,7 @@ h1 {
   }
 }
 
-@media all and (max-width: 370px) {
+@media all and (max-width: 375px) {
   #NavBar > a {
     color: white;
     padding: 0 1vw;
